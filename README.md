@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv4643/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Matrix
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
