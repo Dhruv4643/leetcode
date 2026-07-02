@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv4643/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
