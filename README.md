@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Dhruv4643/leetcode/tree/master/0443-string-compression) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Dhruv4643/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Dhruv4643/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
