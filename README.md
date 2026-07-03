@@ -48,15 +48,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dhruv4643/leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Dhruv4643/leetcode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
