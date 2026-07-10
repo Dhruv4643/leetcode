@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Dhruv4643/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Dhruv4643/leetcode/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/Dhruv4643/leetcode/tree/master/0482-license-key-formatting) |
 | [0844-backspace-string-compare](https://github.com/Dhruv4643/leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Dhruv4643/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
