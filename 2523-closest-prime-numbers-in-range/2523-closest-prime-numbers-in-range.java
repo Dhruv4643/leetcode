@@ -24,13 +24,13 @@ class Solution {
 
         if (n <= 1)
             return false;
-        if (n <= 3)
+        if (n == 2)
             return true;
-        if (n % 2 == 0 || n % 3 == 0)
+        if (n % 2 == 0 )
             return false;
 
-        for (int j = 5; j * j <= n; j += 6) {
-            if (n % j == 0 || n % (j + 2) == 0)
+        for (int j = 3; j * j <= n; j += 2) {
+            if (n % j == 0 )
                 return false;
         }
 
