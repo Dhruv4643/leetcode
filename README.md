@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhruv4643/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Dhruv4643/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruv4643/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Dhruv4643/leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/Dhruv4643/leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Dhruv4643/leetcode/tree/master/0925-long-pressed-name) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Dhruv4643/leetcode/tree/master/0415-add-strings) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
