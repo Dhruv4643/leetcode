@@ -14,10 +14,10 @@ class Solution {
                 }
             }
         }
-        int start = (int) Math.ceil(Math.sqrt(l));
-        int count=0;
-        for (int i = start; i <= maxLimit; i++) {
-            if (x[i]) {
+        int count = 0;
+
+        for (int i = 2; i <= maxLimit; i++) {
+            if (x[i] && i * i >= l && i * i <= r) {
                 count++;
             }
         }
