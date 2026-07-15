@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv4643/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Dhruv4643/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Matrix
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dhruv4643/leetcode/tree/master/0415-add-strings) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhruv4643/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhruv4643/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
