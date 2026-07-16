@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruv4643/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhruv4643/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruv4643/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruv4643/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
