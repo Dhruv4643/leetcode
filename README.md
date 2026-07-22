@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv4643/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/Dhruv4643/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv4643/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1260-shift-2d-grid](https://github.com/Dhruv4643/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Dhruv4643/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
