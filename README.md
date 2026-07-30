@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhruv4643/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv4643/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Dhruv4643/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv4643/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/Dhruv4643/leetcode/tree/master/2490-circular-sentence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv4643/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Dhruv4643/leetcode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhruv4643/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhruv4643/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0728-self-dividing-numbers) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv4643/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhruv4643/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv4643/leetcode/tree/master/3536-maximum-product-of-two-digits) |
