@@ -4,7 +4,7 @@ class Solution {
     }
 
     public int solve(int[] nums, int left, int right) {
-        if (left >= right) {
+        if (left == right) {
             return nums[left];
         }
 
