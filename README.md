@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhruv4643/leetcode/tree/master/0704-binary-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Dhruv4643/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Dhruv4643/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhruv4643/leetcode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
