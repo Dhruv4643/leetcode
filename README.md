@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv4643/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhruv4643/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dhruv4643/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Dhruv4643/leetcode/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dhruv4643/leetcode/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
 ## Interactive
 |  |
 | ------- |
@@ -255,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
