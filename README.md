@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Dhruv4643/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv4643/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhruv4643/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv4643/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv4643/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
 | ------- |
