@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Dhruv4643/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dhruv4643/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv4643/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv4643/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Dhruv4643/leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Dhruv4643/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Dhruv4643/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv4643/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhruv4643/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
