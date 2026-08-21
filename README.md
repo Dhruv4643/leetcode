@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv4643/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhruv4643/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/Dhruv4643/leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Dhruv4643/leetcode/tree/master/0925-long-pressed-name) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Dhruv4643/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv4643/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhruv4643/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv4643/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
