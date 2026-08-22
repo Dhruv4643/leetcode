@@ -6,20 +6,15 @@ class Solution {
         }
 
         int maxLast = 0;
-        int cuts = 0;
+        int cuts = 1;
 
         for (int i = 0; i < nums.length - 1; i++) {
             maxLast = Math.max(maxLast, last.get(nums[i]));
             if (maxLast == i) {
-                cuts++;
+                cuts=(cuts*2)%1000000007;
             }
         }
 
-        long ans = 1;
-        for (int i = 0; i < cuts; i++) {
-            ans =(ans * 2)%1000000007;
-        }
-
-        return (int) ans%1000000007;
+        return (int)cuts;
     }
 }
