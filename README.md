@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv4643/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv4643/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Dhruv4643/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhruv4643/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhruv4643/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhruv4643/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv4643/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Dhruv4643/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3731-find-missing-elements](https://github.com/Dhruv4643/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Dhruv4643/leetcode/tree/master/1510-stone-game-iv) |
 | [2427-number-of-common-factors](https://github.com/Dhruv4643/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhruv4643/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Dhruv4643/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv4643/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dhruv4643/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv4643/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhruv4643/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/Dhruv4643/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
