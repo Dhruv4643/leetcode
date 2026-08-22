@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv4643/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/Dhruv4643/leetcode/tree/master/0896-monotonic-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Dhruv4643/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
