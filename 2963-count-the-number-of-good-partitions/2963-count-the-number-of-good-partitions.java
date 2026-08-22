@@ -5,16 +5,16 @@ class Solution {
             last.put(nums[i], i);
         }
 
-        int maxLast = 0;
-        int cuts = 1;
-
-        for (int i = 0; i < nums.length - 1; i++) {
-            maxLast = Math.max(maxLast, last.get(nums[i]));
-            if (maxLast == i) {
-                cuts=(cuts*2)%1000000007;
+        long c=1;
+        int i=0,j=0;
+        while(i<nums.length){
+            if(i>j){
+                c=(c*2)%1000000007;
             }
+            j=Math.max(j,last.get(nums[i]));
+            i++;
         }
 
-        return (int)cuts;
+        return (int)c;
     }
 }
