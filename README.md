@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv4643/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv4643/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dhruv4643/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Dhruv4643/leetcode/tree/master/0198-house-robber) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Dhruv4643/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruv4643/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
