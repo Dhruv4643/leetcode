@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dhruv4643/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [0289-game-of-life](https://github.com/Dhruv4643/leetcode/tree/master/0289-game-of-life) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv4643/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Dhruv4643/leetcode/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv4643/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhruv4643/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Dhruv4643/leetcode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv4643/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
