@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/Dhruv4643/leetcode/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv4643/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1095-find-in-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Dhruv4643/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Dhruv4643/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Dhruv4643/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv4643/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv4643/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhruv4643/leetcode/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Trie
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Dhruv4643/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
