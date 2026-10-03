@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv4643/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Dhruv4643/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Dhruv4643/leetcode/tree/master/0704-binary-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Dhruv4643/leetcode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhruv4643/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhruv4643/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv4643/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv4643/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Dhruv4643/leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv4643/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv4643/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhruv4643/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/Dhruv4643/leetcode/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/Dhruv4643/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv4643/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
