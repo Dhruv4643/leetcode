@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruv4643/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruv4643/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dhruv4643/leetcode/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/Dhruv4643/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dhruv4643/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Dhruv4643/leetcode/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv4643/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Dhruv4643/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhruv4643/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
