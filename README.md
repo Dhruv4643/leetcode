@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Dhruv4643/leetcode/tree/master/0179-largest-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhruv4643/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhruv4643/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv4643/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dhruv4643/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv4643/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Dhruv4643/leetcode/tree/master/0925-long-pressed-name) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhruv4643/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1108-defanging-an-ip-address](https://github.com/Dhruv4643/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv4643/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhruv4643/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dhruv4643/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Dhruv4643/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Dhruv4643/leetcode/tree/master/0844-backspace-string-compare) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv4643/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhruv4643/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dhruv4643/leetcode/tree/master/0200-number-of-islands) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv4643/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
