@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv4643/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv4643/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv4643/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv4643/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhruv4643/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dhruv4643/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv4643/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv4643/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhruv4643/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhruv4643/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv4643/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Dhruv4643/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv4643/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dhruv4643/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv4643/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
