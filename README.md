@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dhruv4643/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dhruv4643/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Dhruv4643/leetcode/tree/master/0223-rectangle-area) |
+| [0343-integer-break](https://github.com/Dhruv4643/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dhruv4643/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0415-add-strings](https://github.com/Dhruv4643/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruv4643/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhruv4643/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Dhruv4643/leetcode/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/Dhruv4643/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dhruv4643/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Dhruv4643/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Dhruv4643/leetcode/tree/master/0509-fibonacci-number) |
